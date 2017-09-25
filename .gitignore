@@ -1,0 +1,14 @@
+# OS junk files
+*.DS_Store
+
+# Directories
+_site/
+_posts/
+
+# Python byte code
+*.pyc
+
+# other stuff
+.sass-cache
+
+.vscode/
